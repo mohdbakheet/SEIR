@@ -54,4 +54,4 @@ The fitting of the extended SEIR model to real data provides the following resul
 
 The fitting of the extended SEIR model to real data provides the following results:
 
-![Active, recoverd and deceased cases in Hubei](hubei.png)
+![Active, recoverd and deceased cases in Hubei](hubei.png) 
